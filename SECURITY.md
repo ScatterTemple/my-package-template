@@ -1,41 +1,41 @@
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.5 BLOCK -->
 
-## Security
+## セキュリティ
 
-Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
+Microsoft は、すべてのソフトウェア製品およびサービスのセキュリティを重視しています。これには、[Microsoft](https://github.com/Microsoft)、[Azure](https://github.com/Azure)、[DotNet](https://github.com/dotnet)、[AspNet](https://github.com/aspnet)、[Xamarin](https://github.com/xamarin)、および[Microsoft の GitHub 組織](https://opensource.microsoft.com/)で管理されているすべてのソースコードリポジトリが含まれます。
 
-If you believe you have found a security vulnerability in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)), please report it to us as described below.
+もし、[Microsoft のセキュリティ脆弱性の定義](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10))に該当するセキュリティ脆弱性を Microsoft が所有するリポジトリで発見した場合は、以下の手順に従って報告してください。
 
-## Reporting Security Issues
+## セキュリティ問題の報告
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+**セキュリティ脆弱性を公開の GitHub issue で報告しないでください。**
 
-Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://msrc.microsoft.com/create-report).
+代わりに、Microsoft Security Response Center (MSRC) に報告してください。[https://msrc.microsoft.com/create-report](https://msrc.microsoft.com/create-report) から報告を行うことができます。
 
-If you prefer to submit without logging in, send email to [secure@microsoft.com](mailto:secure@microsoft.com).  If possible, encrypt your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://www.microsoft.com/en-us/msrc/pgp-key-msrc).
+ログインせずに提出したい場合は、[secure@microsoft.com](mailto:secure@microsoft.com) にメールを送ってください。可能であれば、メッセージを弊社の PGP キーで暗号化してください。[Microsoft Security Response Center PGP キーのページ](https://www.microsoft.com/en-us/msrc/pgp-key-msrc)からダウンロードできます。
 
-You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found at [microsoft.com/msrc](https://www.microsoft.com/msrc).
+通常、24 時間以内に返信を受け取ることができます。万が一返信がない場合は、元のメッセージが受信されているか確認するため、再度メールでお問い合わせください。詳細については、[microsoft.com/msrc](https://www.microsoft.com/msrc) をご覧ください。
 
-Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
+以下の情報を可能な限り提供していただけると、問題の性質や範囲をより正確に把握するのに役立ちます：
 
-  * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
-  * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
-  * Step-by-step instructions to reproduce the issue
-  * Proof-of-concept or exploit code (if possible)
-  * Impact of the issue, including how an attacker might exploit the issue
+  * 問題の種類（例: バッファオーバーフロー、SQL インジェクション、クロスサイトスクリプティングなど）
+  * 問題が発生する関連ソースファイルの完全なパス
+  * 影響を受けるソースコードの場所（タグ/ブランチ/コミット、または直接 URL）
+  * 問題を再現するために必要な特別な設定
+  * 問題を再現する手順
+  * 概念実証またはエクスプロイトコード（可能であれば）
+  * 問題の影響（攻撃者がどのように問題を悪用する可能性があるかを含む）
 
-This information will help us triage your report more quickly.
+これらの情報は、報告の優先順位を迅速に決定するのに役立ちます。
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
+バグバウンティのために報告する場合、より詳細な報告は高額な報酬に繋がる可能性があります。現在のプログラムについての詳細は、[Microsoft バグバウンティプログラム](https://microsoft.com/msrc/bounty)のページをご覧ください。
 
-## Preferred Languages
+## 推奨言語
 
-We prefer all communications to be in English.
+すべてのコミュニケーションは英語で行うことを推奨します。
 
-## Policy
+## ポリシー
 
-Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/en-us/msrc/cvd).
+Microsoft は、[Coordinated Vulnerability Disclosure](https://www.microsoft.com/en-us/msrc/cvd) の原則に従っています。
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->

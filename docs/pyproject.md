@@ -1,9 +1,9 @@
 # pypyroject.toml
 
-The pyproject.toml is the main configuration file used for the Python project.
-It contains configurations for building, linting, testing, and publishing the Python package.
+pyproject.toml は Python プロジェクトの主な設定ファイルです。  
+ビルド、リント、テスト、そして Python パッケージの公開に関する設定が含まれています。
 
-The pyproject.toml replaces the "setup.py" package. When using 'flit' or 'poetry', only the pyproject.toml is required.
-This project currently uses 'flit', but in the future may also include a 'poetry' example. Both are considered viable options.
+pyproject.toml は "setup.py" を置き換えるものです。'flit' や 'poetry' を使用する場合、pyproject.toml のみが必要となります。  
+このプロジェクトでは現在 'flit' を使用していますが、将来的には 'poetry' の例も含まれる可能性があります。どちらも有効な選択肢とされています。
 
-When using setuptools, and setup.cfg is still required.
+setuptools を使用する場合、setup.cfg も依然として必要です。

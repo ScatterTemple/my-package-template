@@ -1,6 +1,6 @@
 # pre-commit-config.yaml
 
-Pre-commit is a Python package which can be used to create 'git' hooks which scan can prior to checkins.
-The included configuration focuses on python actions which will help to prevent users from commiting code which will fail during builds.
-In general, only formatting actions are automatiicaly performed. These include auto-formatting with 'black', or sorting dependacies with 'isort'. 
-Linting actions are left to the discretion of the user.
+Pre-commit は、'git' のフックを作成するために使用できる Python パッケージです。このフックはコミットの前にコードをスキャンします。
+この設定ファイルには、Python の操作に焦点を当てた設定が含まれており、ビルド時に失敗する可能性のあるコードのコミットを防ぐのに役立ちます。
+一般的に、自動的に実行されるのはフォーマット関連の操作のみです。これには、'black' を使用した自動フォーマットや、'isort' を使用した依存関係の並び替えが含まれます。
+Lint（コードチェック）関連の操作については、ユーザーの判断に委ねられています。

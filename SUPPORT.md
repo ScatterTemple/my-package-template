@@ -1,25 +1,21 @@
-# TODO: The maintainer of this repo has not yet edited this file
+# TODO: このリポジトリの管理者はまだこのファイルを編集していません
 
-**REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
+**リポジトリの所有者**: この製品/プロジェクトに対してカスタマーサービス＆サポート (CSS) のサポートが必要ですか？
 
-- **No CSS support:** Fill out this template with information about how to file issues and get help.
-- **Yes CSS support:** Fill out an intake form at [aka.ms/spot](https://aka.ms/spot). CSS will work with/help you to determine next steps. More details also available at [aka.ms/onboardsupport](https://aka.ms/onboardsupport).
-- **Not sure?** Fill out a SPOT intake as though the answer were "Yes". CSS will help you decide.
+- **CSS サポート不要の場合**: 問題の報告方法やサポートの受け方に関する情報をこのテンプレートに記入してください。
+- **CSS サポートが必要な場合**: [aka.ms/spot](https://aka.ms/spot) で申請フォームに記入してください。CSS は次のステップを決定するために協力/支援します。詳細は [aka.ms/onboardsupport](https://aka.ms/onboardsupport) にも記載されています。
+- **よく分からない場合**: 回答を「はい」として SPOT 申請フォームに記入してください。CSS が判断をサポートします。
 
-*Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
+*この最初の見出しをリポジトリを公開する前にこの SUPPORT.MD ファイルから削除してください。*
 
-# Support
+# サポート
 
-## How to file issues and get help
+## 問題を報告しサポートを受ける方法
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or
-feature request as a new Issue.
+このプロジェクトでは、バグと機能リクエストを追跡するために GitHub Issues を使用しています。重複を避けるために、新しい問題を作成する前に既存の問題を検索してください。新しい問題を報告する場合は、新しい Issue としてバグや機能リクエストを作成してください。
 
-For help and questions about using this project, please **REPO MAINTAINER: INSERT INSTRUCTIONS HERE
-FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HELP. COULD BE A STACK OVERFLOW TAG OR OTHER
-CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
+このプロジェクトの使用に関するヘルプや質問については、**リポジトリ管理者: サポートを受けるための手順をここに記入してください。これは Stack Overflow タグや他のチャネルである可能性があります。どこで支援を行いますか？**。
 
-## Microsoft Support Policy
+## Microsoft サポートポリシー
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+この **プロジェクトまたは製品** に対するサポートは、上記のリソースに限定されます。
